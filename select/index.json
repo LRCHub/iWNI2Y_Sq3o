@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "名前は片想い",
+  "base_artist": "indigo la End",
+  "createdAt": "2025-12-01T01:17:09.023893Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "名前は片想い",
+      "artist": "indigo la End",
+      "has_synced": false,
+      "path": "select/01_名前は片想い_indigo_la_End.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "名前は片想い",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/02_名前は片想い_indigo_la_End.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "名前は片想い - Namae wa Kataomoi",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/03_名前は片想い_-_Namae_wa_Kataomoi_indigo_la_End.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "名前は片想い",
+      "artist": "indigo la End",
+      "has_synced": false,
+      "path": "select/pl_名前は片想い_indigo_la_End.txt"
+    }
+  ]
+}
